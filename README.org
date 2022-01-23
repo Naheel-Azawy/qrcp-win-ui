@@ -1,0 +1,8 @@
+* qrcp windows ui
+  A batch script wrapper over [[https://github.com/claudiodangelis/qrcp][qrcp]].
+  [[./screenshot.png]]
+
+** Install
+   - [[https://github.com/claudiodangelis/qrcp/releases/tag/0.8.4][Download]] and extract a windows version of qrcp
+   - Place ~qrcp.exe~ somewhere in your path. Or just copy it to ~C:\Windows\System32~
+   - Now double clicking ~qrcp.bat~ should deal with it
